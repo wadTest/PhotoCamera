@@ -13,10 +13,10 @@
 
         <ImageView
             android:id="@+id/imvPhoto"
-            android:layout_margin="30dp"
-            android:src="@drawable/photo"
             android:layout_width="match_parent"
-            android:layout_height="200dp" />
+            android:layout_height="200dp"
+            android:layout_margin="30dp"
+            android:src="@drawable/photo" />
 
         <LinearLayout
             android:layout_width="match_parent"
